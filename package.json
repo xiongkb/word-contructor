@@ -1,0 +1,27 @@
+{
+  "name": "word-contructor",
+  "version": "1.0.0",
+  "description": "a word guessing game with npm, like hangman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongkb/word-contructor.git"
+  },
+  "keywords": [
+    "word",
+    "guess",
+    "game"
+  ],
+  "author": "xiongkb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiongkb/word-contructor/issues"
+  },
+  "homepage": "https://github.com/xiongkb/word-contructor#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4"
+  }
+}
